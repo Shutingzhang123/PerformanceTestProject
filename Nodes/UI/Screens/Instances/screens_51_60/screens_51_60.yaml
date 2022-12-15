@@ -440,7 +440,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: {"IdType":2,"Id":"db616ade3ac406f2899c247aac3cac56","Namespace":24}
+      Value: {"IdType":2,"Id":"bf72c13d34545fc0be38dea2a7670df7","Namespace":24}
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath
@@ -1569,18 +1569,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":3,"TextId":"SetVariableToModifyDescription"}
-              Value: {"IdType":0,"Id":0,"Namespace":-1}
-              Children:
-              - Name: DynamicLink
-                Type: DynamicLink
-                DataType: NodePath
-                Value: "/Objects/PerformanceTestProject/CommDrivers/RA EtherNet&/IP Driver1/RAEtherNet_IPStation4/Tags/Controller Tags/BoolHMIBC007@NodeId"
-                Children:
-                - Name: Mode
-                  Type: BaseVariableType
-                  DataType: DynamicLinkMode
-                  ModellingRule: Optional
-                  Value: 2
+              Value: {"IdType":2,"Id":"43adba463f95add903573753aa5a86e1","Namespace":24}
             - Name: Value
               Type: BaseDataVariableType
               DataType: Boolean
@@ -2001,18 +1990,7 @@ Children:
               Type: BaseDataVariableType
               DataType: VariablePointer
               Description: {"NamespaceIndex":3,"TextId":"SetVariableToModifyDescription"}
-              Value: {"IdType":0,"Id":0,"Namespace":-1}
-              Children:
-              - Name: DynamicLink
-                Type: DynamicLink
-                DataType: NodePath
-                Value: "/Objects/PerformanceTestProject/CommDrivers/RA EtherNet&/IP Driver1/RAEtherNet_IPStation2/Tags/Controller Tags/BoolHMIBC007@NodeId"
-                Children:
-                - Name: Mode
-                  Type: BaseVariableType
-                  DataType: DynamicLinkMode
-                  ModellingRule: Optional
-                  Value: 2
+              Value: {"IdType":2,"Id":"d7d8567d43dfe6d2b04f81892e63b418","Namespace":24}
             - Name: Value
               Type: BaseDataVariableType
               DataType: Boolean
@@ -3658,7 +3636,7 @@ Children:
     - Name: Kind
       Type: PropertyType
       DataType: NodeId
-      Value: {"IdType":2,"Id":"7714da3782c7b41ef336ac979a883196","Namespace":24}
+      Value: {"IdType":2,"Id":"a3da02451c3de586a54829e0a46b989a","Namespace":24}
     - Name: DynamicLink
       Type: DynamicLink
       DataType: NodePath

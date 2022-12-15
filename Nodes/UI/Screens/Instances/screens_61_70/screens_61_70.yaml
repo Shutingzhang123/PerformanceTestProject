@@ -12989,7 +12989,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/PerformanceTestProject/CommDrivers/RA EtherNet&/IP Driver1/RA EtherNet&/IPStation1/Tags/Program&:Screen23/Dint003Ramp1SecMin"
+          Value: "/Objects/PerformanceTestProject/CommDrivers/RA EtherNet&/IP Driver1/RAEtherNet_IPStation1/Tags/Program&:Screen23/Dint003Ramp1SecMin"
       - Name: MaxValue
         Type: BaseDataVariableType
         DataType: Float
@@ -12998,7 +12998,7 @@ Children:
         - Name: DynamicLink
           Type: DynamicLink
           DataType: NodePath
-          Value: "/Objects/PerformanceTestProject/CommDrivers/RA EtherNet&/IP Driver1/RA EtherNet&/IPStation1/Tags/Program&:Screen23/Dint003Ramp1SecMax"
+          Value: "/Objects/PerformanceTestProject/CommDrivers/RA EtherNet&/IP Driver1/RAEtherNet_IPStation1/Tags/Program&:Screen23/Dint003Ramp1SecMax"
       - Name: WarningZones
         Type: BaseObjectType
     - Name: Pulsante12
